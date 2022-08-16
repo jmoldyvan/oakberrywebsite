@@ -13,5 +13,3 @@ This is a complete website template, everything someone would need to start a pr
 
 ## Lessons Learned:
 *written 8/15/22 The most prominent aspect that I garnered experience from and learned the most from is creating the style and feel of the website. I’m not a designer so fitting items into a page that looked appealing was difficult. Even though it feels fairly simple it’s a great milestone to look at and see how much I was able to do with so little. I enjoy the parallax effect a lot. To be honest this was a point when most of what I wrote was a learning experience. 
-
-The most prominent 
